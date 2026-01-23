@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/TypeScript-ES2025-blueviolet?style=flat&logo=typescript" alt="TypeScript ES2025">
   <img src="https://img.shields.io/badge/WCAG-2.2%20AA-brightgreen?style=flat&logo=accessibility" alt="WCAG 2.2 AA Compliant">
 
-  <!-- Stats (dynamic via anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MyxOfWar&show_icons=true&theme=radical&hide_border=true" alt="MyxOfWar GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyxOfWar&theme=radical" alt="GitHub streak stats" />
+
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyxOfWar&layout=compact&theme=radical" alt="Top languages used by MyxOfWar" />
