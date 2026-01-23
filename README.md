@@ -32,7 +32,6 @@ Full-stack engineer specializing in performant MERN apps with React 19 Suspense,
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/myxpeace)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site-black?style=flat&logo=vercel)](https://your-site.com)
 📧 Email: dochasachmyx@gmail.com
 
 ---
