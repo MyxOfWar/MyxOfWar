@@ -14,9 +14,10 @@
   <img src="https://img.shields.io/badge/WCAG-2.2%20AA-brightgreen?style=flat&logo=accessibility" alt="WCAG 2.2 AA Compliant">
 
 ## About Me
-Full-stack engineer specializing in performant MERN apps with React 19 Suspense, Node 22, optimized MongoDB schemas, and shadcn/ui. Passionate about accessible UIs (screen reader/keyboard nav) and scalable architectures. Open to collaborations in St. Louis tech scene.[web:14]
+Full-stack engineer specializing in performant MERN apps with React 19, Node 22, and optimized MongoDB schemas. Passionate about accessible UIs (screen reader/keyboard nav) and scalable architectures.
 
 ## Featured Projects
+- [Portfolio Page](https://myx-portfolio.vercel.app/)
 - Stay Tuned (currently rebuilding)
 
 ## Skills
